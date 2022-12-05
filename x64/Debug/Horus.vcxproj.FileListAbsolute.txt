@@ -1,0 +1,6 @@
+E:\repos\Horus\x64\Debug\Horus.exe
+E:\repos\Horus\x64\Debug\Horus.vcxproj.CopyComplete
+E:\repos\Horus\x64\Debug\SDL2d.dll
+E:\repos\Horus\x64\Debug\SDL2_image.dll
+E:\repos\Horus\x64\Debug\libpng16d.dll
+E:\repos\Horus\x64\Debug\zlibd1.dll

@@ -1,0 +1,4 @@
+﻿  Game.cpp
+E:\repos\Horus\src\ECS\SpriteComponent.h(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+E:\repos\Horus\src\ECS\SpriteComponent.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  Horus.vcxproj -> E:\repos\Horus\x64\Debug\Horus.exe
